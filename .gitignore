@@ -131,4 +131,5 @@ dmypy.json
 # Private
 database/
 prototypes/
+.DS_Store
 

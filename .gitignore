@@ -133,3 +133,8 @@ database/
 prototypes/
 .DS_Store
 
+#R
+.Rproj.user
+*.Rproj
+.RData
+.Rhistory

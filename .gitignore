@@ -138,3 +138,7 @@ prototypes/
 *.Rproj
 .RData
 .Rhistory
+
+.vscode/
+
+pgdata/
